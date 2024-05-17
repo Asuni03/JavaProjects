@@ -6,9 +6,13 @@ public class Main {
 
 	public static void main(String[] args) {
 		
+		
+		System.out.println("This is from the macbook");
+		
+		
+		
 		//Made the scanner object
 		Scanner obj = new Scanner(System.in);
-		System.out.println("haiiiii");
 		
 		//Made 3 students
 		Student student1 = new Student();
